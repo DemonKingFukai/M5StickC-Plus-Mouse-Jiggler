@@ -1,4 +1,6 @@
 M5StickC Plus Bluetooth Mouse Jiggler
+<img width="512" height="512" alt="Mouse Jiggler" src="https://github.com/user-attachments/assets/e4b2b693-f91e-4e53-a023-eecac9d788bb" />
+
 
 This project turns an M5StickC Plus into a Bluetooth mouse jiggler using the BleMouse library (Specifically > [https://github.com/sirfragles/ESP32-BLE-Mouse/tree/dev]).
 It prevents your computer from going idle or locking by sending small mouse movements at configurable intervals.
