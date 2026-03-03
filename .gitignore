@@ -1,0 +1,6 @@
+.arduino-cache/
+.arduino-data/
+.arduino-downloads/
+.arduino-user/
+.build-tools/
+build/

@@ -1,0 +1,18 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#0a1018"/>
+  <text x="640" y="90" fill="#d9ebff" font-family="Arial, sans-serif" font-size="44" font-weight="700" text-anchor="middle">Button Controls</text>
+  <rect x="420" y="170" width="440" height="300" rx="40" fill="#1a2432" stroke="#3b526b" stroke-width="4"/>
+  <rect x="465" y="200" width="350" height="240" rx="26" fill="#0f1722"/>
+  <circle cx="450" cy="300" r="35" fill="#26b8ff"/>
+  <text x="435" y="307" fill="#04111b" font-family="Arial, sans-serif" font-size="30" font-weight="900">A</text>
+  <circle cx="830" cy="300" r="35" fill="#39ffb4"/>
+  <text x="815" y="307" fill="#04111b" font-family="Arial, sans-serif" font-size="30" font-weight="900">B</text>
+  <line x1="485" y1="300" x2="310" y2="250" stroke="#26b8ff" stroke-width="4"/>
+  <text x="120" y="240" fill="#d8edff" font-family="Arial, sans-serif" font-size="28" font-weight="700">A short: Toggle ON/OFF</text>
+  <line x1="485" y1="320" x2="300" y2="380" stroke="#26b8ff" stroke-width="4"/>
+  <text x="70" y="395" fill="#d8edff" font-family="Arial, sans-serif" font-size="28" font-weight="700">A hold 1s: Change distance</text>
+  <line x1="795" y1="300" x2="980" y2="250" stroke="#39ffb4" stroke-width="4"/>
+  <text x="990" y="240" fill="#d8edff" font-family="Arial, sans-serif" font-size="28" font-weight="700">B short: Change interval</text>
+  <line x1="795" y1="320" x2="995" y2="390" stroke="#39ffb4" stroke-width="4"/>
+  <text x="1000" y="405" fill="#d8edff" font-family="Arial, sans-serif" font-size="28" font-weight="700">B hold 1s: Toggle screen lock</text>
+</svg>
