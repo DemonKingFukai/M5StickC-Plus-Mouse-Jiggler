@@ -1,5 +1,7 @@
 # M5StickC Plus Bluetooth Mouse Jiggler
 
+<img width="512" height="512" alt="Mouse Jiggler" src="https://github.com/user-attachments/assets/e4b2b693-f91e-4e53-a023-eecac9d788bb" />
+
 This project turns an M5StickC Plus into a Bluetooth mouse jiggler using the ESP32 BLE Mouse library.
 It prevents your computer from going idle by sending subtle periodic mouse movement.
 
@@ -8,11 +10,6 @@ It prevents your computer from going idle by sending subtle periodic mouse movem
 Hardware (official M5Stack product photo):
 
 ![M5StickC Plus Hardware](assets/photos/m5stickc-plus-official.webp)
-
-UI on device (replace with real captures from your flashed unit):
-
-- `assets/photos/ui-active.jpg`
-- `assets/photos/ui-paused.jpg`
 
 ## Features
 
